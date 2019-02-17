@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaCloudReco", "Assembly-CSharp.csproj", "{7C919CDE-286D-7B35-1ABE-7F12279620CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaCloudReco", "Assembly-CSharp-Editor.csproj", "{4511777E-1A30-763C-A75A-708C1C513277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C919CDE-286D-7B35-1ABE-7F12279620CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C919CDE-286D-7B35-1ABE-7F12279620CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C919CDE-286D-7B35-1ABE-7F12279620CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C919CDE-286D-7B35-1ABE-7F12279620CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4511777E-1A30-763C-A75A-708C1C513277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4511777E-1A30-763C-A75A-708C1C513277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4511777E-1A30-763C-A75A-708C1C513277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4511777E-1A30-763C-A75A-708C1C513277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
